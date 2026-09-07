@@ -56,7 +56,7 @@ Técnico Superior en Desarrollo de Aplicaciones Web (2023–2025) y Máster de F
 <td>
 
 **[Cuadro de mando de ventas en Power BI](https://github.com/BorjaEscolanoMartin/powerbi-ventas-globales)** — ventas y rentabilidad por país, continente y periodo con medidas DAX y limpieza de datos en Power Query; dashboard equivalente en Tableau.
-[Código](https://github.com/BorjaEscolanoMartin/powerbi-ventas-globales)
+[Código](https://github.com/BorjaEscolanoMartin/powerbi-ventas-globales) · [Demo del dashboard en Tableau Public](https://public.tableau.com/app/profile/borja.escolano/viz/Supertienda-BEM/Dashboard1)
 
 </td>
 </tr>
