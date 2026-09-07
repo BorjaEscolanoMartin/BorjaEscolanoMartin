@@ -43,6 +43,15 @@ Técnico Superior en Desarrollo de Aplicaciones Web (2023–2025) y Máster de F
 </td>
 </tr>
 <tr>
+<td width="120"><img src="https://raw.githubusercontent.com/BorjaEscolanoMartin/PortFolio/master/public/Pets.webp" width="100" alt="Pets - Plataforma de alojamiento de mascotas" /></td>
+<td>
+
+**[Pets · Plataforma de alojamiento de mascotas](https://github.com/BorjaEscolanoMartin/PlataformaPets)** — plataforma full-stack (Laravel + React) con autenticación, roles, reservas, chat en tiempo real y mapas. Proyecto final de DAW.
+[Código](https://github.com/BorjaEscolanoMartin/PlataformaPets)
+
+</td>
+</tr>
+<tr>
 <td width="120"><img src="https://raw.githubusercontent.com/BorjaEscolanoMartin/PortFolio/master/public/PowerBI.webp" width="100" alt="Cuadro de mando de ventas en Power BI" /></td>
 <td>
 
@@ -75,15 +84,6 @@ Técnico Superior en Desarrollo de Aplicaciones Web (2023–2025) y Máster de F
 
 **[Email Automation Matrícula](https://github.com/BorjaEscolanoMartin/EmailAutomationMatricula)** — automatización RPA de matrículas: lectura de correo por IMAP, extracción de las imágenes del PDF con PyMuPDF y lectura del código QR, volcado a Excel y respuesta automática por SMTP, con la infraestructura de correo en Docker.
 [Código](https://github.com/BorjaEscolanoMartin/EmailAutomationMatricula)
-
-</td>
-</tr>
-<tr>
-<td width="120"><img src="https://raw.githubusercontent.com/BorjaEscolanoMartin/PortFolio/master/public/Pets.webp" width="100" alt="Pets - Plataforma de alojamiento de mascotas" /></td>
-<td>
-
-**[Pets · Plataforma de alojamiento de mascotas](https://github.com/BorjaEscolanoMartin/PlataformaPets)** — plataforma full-stack (Laravel + React) con autenticación, roles, reservas, chat en tiempo real y mapas. Proyecto final de DAW.
-[Código](https://github.com/BorjaEscolanoMartin/PlataformaPets)
 
 </td>
 </tr>
