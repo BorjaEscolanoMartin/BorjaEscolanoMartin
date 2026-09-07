@@ -65,7 +65,7 @@ Técnico Superior en Desarrollo de Aplicaciones Web (2023–2025) y Máster de F
 <td>
 
 **[Chatbot RAG con LangChain](https://github.com/BorjaEscolanoMartin/rag-chatbot-langchain)** — chatbot con memoria que responde sobre documentos PDF mediante RAG (Chroma, búsqueda MMR), con Gemini o un modelo Ollama local, interfaz Streamlit y despliegue en Docker.
-[Código](https://github.com/BorjaEscolanoMartin/rag-chatbot-langchain)
+[Código](https://github.com/BorjaEscolanoMartin/rag-chatbot-langchain) · [Demo](https://huggingface.co/spaces/BemDev/chatbot-rag-ut7-1) (Hugging Face, puede tardar unos 30 s en arrancar)
 
 </td>
 </tr>
