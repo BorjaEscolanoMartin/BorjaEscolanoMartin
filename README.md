@@ -52,11 +52,11 @@ Técnico Superior en Desarrollo de Aplicaciones Web (2023–2025) y Máster de F
 </td>
 </tr>
 <tr>
-<td width="120"><img src="https://raw.githubusercontent.com/BorjaEscolanoMartin/PortFolio/master/public/PowerBI.webp" width="100" alt="Cuadro de mando de ventas en Power BI" /></td>
+<td width="120"><img src="https://raw.githubusercontent.com/BorjaEscolanoMartin/PortFolio/master/public/PowerBI.webp" width="100" alt="Cuadros de mando de ventas en Power BI y Tableau" /></td>
 <td>
 
-**[Cuadro de mando de ventas en Power BI](https://github.com/BorjaEscolanoMartin/powerbi-ventas-globales)** — ventas y rentabilidad por país, continente y periodo con medidas DAX y limpieza de datos en Power Query; dashboard equivalente en Tableau.
-[Código](https://github.com/BorjaEscolanoMartin/powerbi-ventas-globales) · [Demo del dashboard en Tableau Public](https://public.tableau.com/app/profile/borja.escolano/viz/Supertienda-BEM/Dashboard1)
+**[Cuadros de mando de ventas en Power BI y Tableau](https://github.com/BorjaEscolanoMartin/powerbi-ventas-globales)** — informe de ventas y rentabilidad por país, continente y periodo con medidas DAX y limpieza de datos en Power Query; dashboard y story equivalentes en Tableau.
+[Código](https://github.com/BorjaEscolanoMartin/powerbi-ventas-globales) · [Demo del dashboard en Tableau Public](https://public.tableau.com/app/profile/borja.escolano/viz/Supertienda-BEM/Dashboard1) · [Informe de Power BI (PDF)](https://github.com/BorjaEscolanoMartin/powerbi-ventas-globales/blob/main/powerbi/Appol-BEM.pdf)
 
 </td>
 </tr>
