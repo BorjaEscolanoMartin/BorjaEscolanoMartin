@@ -81,7 +81,7 @@ Técnico Superior en Desarrollo de Aplicaciones Web (2023-2025) y actualmente cu
 
 Portfolio completo con todos los proyectos: **[borjaescolanomartin.github.io/PortFolio](https://borjaescolanomartin.github.io/PortFolio/)**
 
-**Próximamente:** powerbi-ventas-globales <!-- TODO enlace -->, computer-vision-yolo <!-- TODO enlace -->, rag-chatbot-langchain <!-- TODO enlace -->
+**También:** [powerbi-ventas-globales](https://github.com/BorjaEscolanoMartin/powerbi-ventas-globales) (cuadro de mando de ventas en Power BI y Tableau) · [computer-vision-yolo](https://github.com/BorjaEscolanoMartin/computer-vision-yolo) (detección de objetos con YOLO11) · [rag-chatbot-langchain](https://github.com/BorjaEscolanoMartin/rag-chatbot-langchain) (chatbot RAG sobre PDFs)
 
 ## Contacto
 
