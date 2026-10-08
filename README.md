@@ -5,8 +5,7 @@
 Desarrollador Full-Stack y Analista de datos, disponible para incorporación inmediata. Actualmente colaboro con [TuyTu Tech](https://tuytu.tech) en su producto de protección frente a deepfakes: web pública, dashboard y equipo de Core.
 
 **Qué busco:**
-- Full-Stack / Frontend (React, TypeScript, Node.js) o Analista de datos / BI (SQL, Python, Power BI, Tableau).
-- Alicante, Valencia, Madrid o remoto.
+Abierto a puestos de desarrollo Full-Stack o Frontend, de IA aplicada y de análisis de datos/BI, en remoto, híbrido o presencial. Disponibilidad inmediata.
 
 Técnico Superior en Desarrollo de Aplicaciones Web (2023–2025) y Máster de FP en Inteligencia Artificial y Big Data (2025–2026, título obtenido).
 
