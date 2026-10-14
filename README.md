@@ -2,7 +2,7 @@
 
 **EN:** Full-Stack developer and Data/BI analyst based in Alicante, Spain — I build web apps and data products with React, Python, SQL and Power BI.
 
-Desarrollador Full-Stack y Analista de datos, disponible para incorporación inmediata. Actualmente colaboro con [TuyTu Tech](https://tuytu.tech) en su producto de protección frente a deepfakes: web pública, dashboard y equipo de Core.
+Desarrollador Full-Stack con Máster de FP en IA y Big Data, disponible para incorporación inmediata. Actualmente colaboro con [TuyTu Tech](https://tuytu.tech) en su producto de protección frente a deepfakes: web pública, dashboard y equipo de Core.
 
 **Qué busco:**
 Abierto a puestos de desarrollo Full-Stack o Frontend, de IA aplicada y de análisis de datos/BI, en remoto, híbrido o presencial. Disponibilidad inmediata.
