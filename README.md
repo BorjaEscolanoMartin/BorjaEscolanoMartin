@@ -37,7 +37,7 @@ Técnico Superior en Desarrollo de Aplicaciones Web (2023–2025) y Máster de F
 <td>
 
 **[DataInsight AI](https://github.com/BorjaEscolanoMartin/DataInsightAI)** — Plataforma web que convierte un CSV en un informe sin escribir código: perfil de cada columna, gráficos que se adaptan a los datos, hallazgos redactados por Claude cuyas cifras se validan contra el propio CSV, y previsión Holt-Winters con intervalo del 95 % y error medido en backtest (WAPE), o regresión con Random Forest cuando no hay fechas. API en FastAPI con worker Celery, web en Next.js, tests y CI en GitHub Actions.
-[Código](https://github.com/BorjaEscolanoMartin/DataInsightAI) · [Demo](https://data-insight-ai-qbh4.vercel.app/) (no requiere registro)
+[Código](https://github.com/BorjaEscolanoMartin/DataInsightAI) · [Demo](https://data-insight-ai-qbh4.vercel.app/login) (no requiere registro)
 
 </td>
 </tr>
